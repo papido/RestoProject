@@ -1,1 +1,1 @@
-This is a mobile application developed as a final year project, designed to showcase restaurants in Shah Alam. The UI is built using XML, it incorporates fragments and Room for local database and the backend is powered by Firebase to store and add items.
+This is a mobile application developed as a final year project, designed to showcase restaurants in Shah Alam. The UI is built using XML, it incorporates fragments for different pages in one page and Room for local database to add, delete, or edit reviews.
